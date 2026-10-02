@@ -3,7 +3,7 @@
 A no-code workflow that sends every student an instant confirmation 
 email the moment an assignment is submitted — built with Zapier, 
 Google Forms, Google Sheets, and Gmail.
-
+**📄 Full Case Study PDF:** [Download here](Student%20assignment%20submission%20automation%20case%20study.pdf)
 ---
 
 ## 📋 Overview
