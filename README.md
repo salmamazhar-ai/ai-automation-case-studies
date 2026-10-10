@@ -17,6 +17,9 @@ A lead-finder assistant prototype, with analysis of what works and a roadmap to 
 Visily wireframe, 5 screens
 An AI meal and nutrition scanner concept: photo to calories, macros, ingredients and allergens, with a daily log. Includes a design review and roadmap.
 [Read the case study](Salma_NutriScan_AI_Case_Study.pdf)
-
+## 4. Teachable Machine Pose Classifier (No-code ML)
+Google Teachable Machine, 3 classes, 18 training images
+A pose model that tells Hand Raised, Sitting and Standing apart, tested on new images, with an honest look at what a small test can and cannot prove.
+[Read the case study](Salma_Teachable_Machine_Case_Study.pdf)
 ## Skills shown
-Workflow automation, AI agents, UX flow design, product thinking, honest design review
+Workflow automation, AI agents, UX flow design, no-code machine learning, product thinking, honest design review
